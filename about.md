@@ -1,10 +1,12 @@
 ---
 layout: default
-title: CV
+title: Curriculum Vitae
 permalink: /CV/
 ---
 *For a PDF (but not as up to date) copy of my CV, click here: [Bechara CV](http://www.engr.colostate.edu/me/wp-content/uploads/2017/08/becharaCV.pdf "Dr. Bechara's CV")*
+
 # Dr. Samuel Bechara
+
 email: samuel.bechara@colostate.edu
 
 ## Teaching Experience
